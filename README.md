@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mananshi&label=Profile%20views&color=0e75b6&style=flat" alt="mananshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mananshi" alt="mananshi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mananshiv" target="blank"><img src="https://img.shields.io/twitter/follow/mananshiv?logo=twitter&style=for-the-badge" alt="mananshiv" /></a> </p>
 
-- 🔭 I’m currently working at **Disruptium**
+- 🔭 I’m currently working as a Software Developer at **Disruptium**
 
-- 💬 Always eager to chat about **new technologies, potential vulnerabilities in web apps and Sitcoms**
+- 💬 Always eager to chat about new technologies, potential vulnerabilities in Web apps and Sitcoms
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S7EUrpzqQ1ZtVtiKB8FfsnxQLkxoYEfB/view?usp=sharing](https://drive.google.com/file/d/1S7EUrpzqQ1ZtVtiKB8FfsnxQLkxoYEfB/view?usp=sharing)
+- 😎 Have mastered the “Art of searching on Google”
 
-- ⚡ Fun fact **Deleted code is always debugged code**
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1S7EUrpzqQ1ZtVtiKB8FfsnxQLkxoYEfB/view?usp=sharing)
+
+- ⚡ Fun fact: **Deleted code is always debugged code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
