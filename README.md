@@ -9,7 +9,7 @@
 
 - 💬 Always eager to chat about new technologies, potential vulnerabilities in Web apps and Sitcoms
 
-- 😎 Have mastered the “Art of searching on Google”
+- 😎 On my way to mastering the “Art of searching on Google”
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1S7EUrpzqQ1ZtVtiKB8FfsnxQLkxoYEfB/view?usp=sharing)
 
