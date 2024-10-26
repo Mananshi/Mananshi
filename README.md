@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mananshi Vyas</h1>
-<h3 align="center">Software Developer | Cyber Security Enthusiast</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mananshi&label=Profile%20views&color=0e75b6&style=flat" alt="mananshi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mananshiv" target="blank"><img src="https://img.shields.io/twitter/follow/mananshiv?logo=twitter&style=for-the-badge" alt="mananshiv" /></a> </p>
 
-- 🔭 I’m currently working as a Software Developer at **Disruptium**
+- 🔭 I’m currently working as a Software Developer at **Quicko**
 
 - 💬 Always eager to chat about new technologies, potential vulnerabilities in Web apps and Sitcoms
 
 - 😎 On my way to mastering the “Art of searching on Google”
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1S7EUrpzqQ1ZtVtiKB8FfsnxQLkxoYEfB/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1RE6bIxMUnvsuOLH3YbPh0tunJ7xb27E7/view?usp=sharing)
 
 - ⚡ Fun fact: **Deleted code is always debugged code**
 
